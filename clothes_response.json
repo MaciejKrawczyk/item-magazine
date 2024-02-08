@@ -1,0 +1,243 @@
+[
+    {
+      "id": "1",
+      "productName": "Koszula męska w kratę",
+      "colors": ["czerwono-biała", "niebiesko-biała", "zielono-biała"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "2",
+      "productName": "Sukienka koktajlowa z falbanami",
+      "colors": ["czarna", "czerwona", "granatowa"],
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": "3",
+      "productName": "Jeansy slim fit dla mężczyzn",
+      "colors": ["ciemny niebieski", "jasny niebieski", "czarny"],
+      "sizes": ["28/30", "30/32", "32/34", "34/36"]
+    },
+    {
+      "id": "4",
+      "productName": "Kardigan z wełny merynosów",
+      "colors": ["szary", "beżowy", "granatowy"],
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": "5",
+      "productName": "Spódnica midi w kwiaty",
+      "colors": ["czerwono-biała", "czarno-biała", "niebiesko-biała"],
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": "6",
+      "productName": "Sweter oversize z golfem",
+      "colors": ["brązowy", "zielony", "bordowy"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "7",
+      "productName": "Kamizelka męska ze skóry",
+      "colors": ["czarna", "brązowa", "ciemnobrązowa"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "8",
+      "productName": "Bluzka w paski z dekoltem w serek",
+      "colors": ["czarno-biała", "granatowo-biała", "czerwono-biała"],
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": "9",
+      "productName": "Garnitur slim fit",
+      "colors": ["granatowy", "szary", "czarny"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "10",
+      "productName": "Sukienka wieczorowa z cekinami",
+      "colors": ["czarna", "srebrna", "złota"],
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": "11",
+      "productName": "Kurtka bomberka w stylu retro",
+      "colors": ["zielona", "brązowa", "czarna"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "12",
+      "productName": "Dżinsowa kamizelka damska",
+      "colors": ["jasnoniebieska", "ciemnoniebieska", "czarna"],
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": "13",
+      "productName": "Marynarka męska w granatowym kolorze",
+      "colors": ["granatowa", "ciemnografitowa", "czarna"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "14",
+      "productName": "Szlafrok z miękkiego materiału",
+      "colors": ["biały", "jasnobrązowy", "pastelowy róż"],
+      "sizes": ["S/M", "L/XL"]
+    },
+    {
+      "id": "15",
+      "productName": "T-shirt z nadrukiem i okrągłym dekoltem",
+      "colors": ["czarny", "biały", "szary"],
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": "16",
+      "productName": "Sukienka w stylu boho",
+      "colors": ["pastelowy róż", "fioletowy", "zielony"],
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": "17",
+      "productName": "Płaszcz z kołnierzem z futerka",
+      "colors": ["brązowy", "czarny", "szary"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "18",
+      "productName": "Koszula damska w kropki",
+      "colors": ["biało-czarna", "niebiesko-biała", "czerwono-biała"],
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": "19",
+      "productName": "Sweter z golfem i wzorem w paski",
+      "colors": ["czerwono-biały", "zielono-biały", "niebiesko-biały"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "20",
+      "productName": "Kapelusz filcowy z szerokim rondem",
+      "colors": ["czarny", "brązowy", "szary"],
+      "sizes": ["S", "M", "L"]
+    },
+    {
+    "id": "21",
+    "productName": "Koszula flanelowa w kratę",
+    "colors": ["czerwono-czarna", "zielono-niebieska", "brązowo-biała"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "22",
+    "productName": "Spodnie chinos slim fit",
+    "colors": ["beżowe", "granatowe", "khaki"],
+    "sizes": ["28/30", "30/32", "32/34", "34/36"]
+    },
+    {
+    "id": "23",
+    "productName": "Tunika boho z haftami",
+    "colors": ["biała", "kremowa", "pomarańczowa"],
+    "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+    "id": "24",
+    "productName": "Bluza z kapturem i suwakiem",
+    "colors": ["czarna", "szara", "granatowa"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "25",
+    "productName": "Szorty jeansowe z przetarciami",
+    "colors": ["niebieskie", "czarne", "szare"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "26",
+    "productName": "Marynarka slim fit w kratę",
+    "colors": ["granatowo-czerwona", "zielono-czarna", "brązowo-biała"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "27",
+    "productName": "Sukienka oversize w paski",
+    "colors": ["czarno-biała", "czerwono-biała", "niebiesko-biała"],
+    "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+    "id": "28",
+    "productName": "Płaszcz trencz w kolorze khaki",
+    "colors": ["khaki"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "29",
+    "productName": "Golf w paski z wełny",
+    "colors": ["granatowo-biały", "czerwono-biały", "zielono-biały"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "30",
+    "productName": "Koszula z długim rękawem i wzorem paisley",
+    "colors": ["granatowa", "brązowa", "zielona"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "31",
+    "productName": "Sukienka maxi w kwiaty",
+    "colors": ["kolorowy kwiatowy wzór"],
+    "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+    "id": "32",
+    "productName": "Kurtka puchowa z kapturem",
+    "colors": ["czarna", "granatowa", "czerwona"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "33",
+    "productName": "Dresowe spodnie z lampasami",
+    "colors": ["czarne", "szare", "granatowe"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "34",
+    "productName": "Bluza sportowa z kapturem",
+    "colors": ["czarna", "niebieska", "szara"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "35",
+    "productName": "Sukienka ołówkowa w groszki",
+    "colors": ["czarno-biały groszek", "czerwono-biały groszek", "granatowo-biały groszek"],
+    "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+    "id": "36",
+    "productName": "Jeansowa kurtka oversize",
+    "colors": ["jasnoniebieska", "ciemnoniebieska", "czarna"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "37",
+    "productName": "Spódnica plisowana w kolorze pudrowego różu",
+    "colors": ["pudrowy róż"],
+    "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+    "id": "38",
+    "productName": "Garnitur w kratę",
+    "colors": ["granatowo-biały", "czarno-biały", "zielono-biały"],
+    "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+    "id": "39",
+    "productName": "Sukienka w stylu hiszpańskim",
+    "colors": ["czerwona", "czarna", "biała"],
+    "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+    "id": "40",
+    "productName": "Koszulka polo z krótkim rękawem",
+    "colors": ["biała", "niebieska", "zielona"],
+    "sizes": ["S", "M", "L", "XL"]
+    }
+  ]
+  

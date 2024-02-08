@@ -1,0 +1,204 @@
+[
+  {
+    "id": "1",
+    "productName": "Paracetamol",
+    "description": "Lek przeciwbólowy i przeciwgorączkowy",
+    "sizes": [
+      "10 tabletek",
+      "20 tabletek",
+      "50 tabletek"
+    ]
+  },
+  {
+    "id": "2",
+    "productName": "Ibuprofen",
+    "description": "Lek przeciwbólowy, przeciwzapalny i przeciwgorączkowy",
+    "sizes": [
+      "10 tabletek",
+      "20 tabletek",
+      "50 tabletek",
+      "200 ml syrop"
+    ]
+  },
+  {
+    "id": "3",
+    "productName": "Krople do nosa z ksylo-metazoliną",
+    "description": "Środek zwężający naczynia krwionośne w nosie, ułatwiający oddychanie",
+    "sizes": [
+      "10 ml",
+      "20 ml",
+      "30 ml"
+    ]
+  },
+  {
+    "id": "4",
+    "productName": "Witamina C",
+    "description": "Suplement diety w postaci tabletek do żucia",
+    "sizes": [
+      "20 tabletek",
+      "50 tabletek",
+      "100 tabletek"
+    ]
+  },
+  {
+    "id": "5",
+    "productName": "Syrop na kaszel z kodeiną",
+    "description": "Lek łagodzący kaszel o działaniu przeciwkaszlowym",
+    "sizes": [
+      "100 ml",
+      "200 ml",
+      "300 ml"
+    ]
+  },
+  {
+    "id": "6",
+    "productName": "Krem przeciwbólowy",
+    "description": "Środek zewnętrzny łagodzący ból mięśni i stawów",
+    "sizes": [
+      "50 g",
+      "100 g",
+      "200 g"
+    ]
+  },
+  {
+    "id": "7",
+    "productName": "Plastry na odciski",
+    "description": "Plastry medyczne łagodzące ucisk i ból spowodowany odciskami",
+    "sizes": [
+      "10 sztuk",
+      "20 sztuk",
+      "30 sztuk"
+    ]
+  },
+  {
+    "id": "8",
+    "productName": "Preparat do dezynfekcji ran",
+    "description": "Roztwór antybakteryjny do stosowania na skórę",
+    "sizes": [
+      "50 ml",
+      "100 ml",
+      "200 ml"
+    ]
+  },
+  {
+    "id": "9",
+    "productName": "Tabletki na alergię",
+    "description": "Lek przeciwhistaminowy łagodzący objawy alergii",
+    "sizes": [
+      "10 tabletek",
+      "20 tabletek",
+      "30 tabletek"
+    ]
+  },
+  {
+    "id": "10",
+    "productName": "Maść na oparzenia",
+    "description": "Środek łagodzący ból i przyspieszający gojenie oparzeń",
+    "sizes": [
+      "30 g",
+      "50 g",
+      "100 g"
+    ]
+  },
+  {
+    "id": "11",
+    "productName": "Roztwór do płukania ust",
+    "description": "Środek do higieny jamy ustnej, usuwający bakterie i ślady pokarmu",
+    "sizes": [
+      "250 ml",
+      "500 ml",
+      "1000 ml"
+    ]
+  },
+  {
+    "id": "12",
+    "productName": "Leki na trawienie",
+    "description": "Preparaty ułatwiające trawienie i łagodzące dolegliwości żołądkowe",
+    "sizes": [
+      "20 tabletek",
+      "30 tabletek",
+      "60 tabletek"
+    ]
+  },
+  {
+    "id": "13",
+    "productName": "Przeciwalergiczne krople do oczu",
+    "description": "Krople do oczu łagodzące objawy alergii, takie jak swędzenie i zaczerwienienie",
+    "sizes": [
+      "10 ml",
+      "15 ml",
+      "20 ml"
+    ]
+  },
+  {
+    "id": "14",
+    "productName": "Maść przeciwwirusowa na opryszczkę",
+    "description": "Środek miejscowo działający hamujący rozwój wirusa opryszczki",
+    "sizes": [
+      "5 g",
+      "10 g",
+      "15 g"
+    ]
+  },
+  {
+    "id": "15",
+    "productName": "Krople do uszu oczyszczające",
+    "description": "Roztwór do higieny uszu, usuwający nadmiar woskowiny i zapobiegający zatkanym uszom",
+    "sizes": [
+      "10 ml",
+      "15 ml",
+      "20 ml"
+    ]
+  },
+  {
+    "id": "16",
+    "productName": "Tabletki przeciwko biegunce",
+    "description": "Lek przeciwbiegunkowy łagodzący objawy biegunki i stabilizujący pracę jelit",
+    "sizes": [
+      "10 tabletek",
+      "20 tabletek",
+      "30 tabletek"
+    ]
+  },
+  {
+    "id": "17",
+    "productName": "Krem na hemoroidy",
+    "description": "Środek zewnętrzny łagodzący objawy hemoroidów, takie jak swędzenie i ból",
+    "sizes": [
+      "30 g",
+      "50 g",
+      "100 g"
+    ]
+  },
+  {
+    "id": "18",
+    "productName": "Płyny nawilżające do oczu",
+    "description": "Krople do oczu nawilżające i łagodzące podrażnienia oczu",
+    "sizes": [
+      "10 ml",
+      "15 ml",
+      "20 ml"
+    ]
+  },
+  {
+    "id": "19",
+    "productName": "Plastry znieczulające",
+    "description": "Plastry medyczne łagodzące ból i znieczulające drobne skaleczenia i otarcia",
+    "sizes": [
+      "10 sztuk",
+      "20 sztuk",
+      "30 sztuk"
+    ]
+  },
+  {
+    "id": "20",
+    "productName": "Preparat na grzybicę paznokci",
+    "description": "Środek do stosowania miejscowego zwalczający infekcję grzybiczą paznokci",
+    "sizes": [
+      "10 ml",
+      "20 ml",
+      "30 ml"
+    ]
+  }
+]
+  
